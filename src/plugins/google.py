@@ -1,8 +1,7 @@
+import logging
+import re
 import requests
 import google
-import re
-import logging
-
 
 """
 TODO: 
